@@ -1,0 +1,2 @@
+# linuxpalvelimet
+linux laksyt
